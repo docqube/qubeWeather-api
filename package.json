@@ -1,0 +1,22 @@
+{
+  "name": "qubeweather-api",
+  "version": "1.0.0",
+  "description": "nodeJS RESTful-API for qubeWeather station database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:/qubeWeather-api"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "moment": "^2.20.1",
+    "moment-timezone": "^0.5.14",
+    "mysql": "^2.15.0"
+  }
+}
